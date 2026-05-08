@@ -1,3 +1,6 @@
+streamlit
 pymupdf
+Pillow
+streamlit-image-coordinatespymupdf
 streamlit-drawable-canvas
 Pillow
